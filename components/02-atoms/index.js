@@ -1,0 +1,5 @@
+export { default as Heading } from './Heading/Heading'
+export { default as HtmlHead } from './HtmlHead/HtmlHead'
+export { default as Link } from './Link/Link'
+export { default as Loader } from './Loader/Loader'
+export { default as Wrapper } from './Wrapper/Wrapper'
