@@ -5,18 +5,19 @@
 }
 
 .h1 {
-  font-size: responsive 1.8em 3em;
-  font-range: 12em 40em; /* stylelint-disable-line */
+  font-size: responsive 2.1em 5em;
+  font-range: 12em 72em; /* stylelint-disable-line */
   line-height: 1.1em;
 }
 
 .h2 {
-  font-size: responsive 1.6em 2.4em;
-  font-range: 12em 40em; /* stylelint-disable-line */
+  font-size: responsive 1.8em 3.2em;
+  font-range: 12em 72em; /* stylelint-disable-line */
 }
 
 .h3 {
-  font-size: 1.6em;
+  font-size: responsive 1.6em 2.4em;
+  font-range: 12em 72em; /* stylelint-disable-line */
   line-height: 1.2em;
 }
 
@@ -24,5 +25,5 @@
   font-size: 1.7em;
 }
 
-.h5 { font-size: 1.4em; }
-.h6 { font-size: 1.2em; }
+.h5 { font-size: 1.35em; }
+.h6 { font-size: 1.1em; }
